@@ -11,3 +11,7 @@ Made with :
 - API
 - uuid
 - axios
+
+## Deploy
+
+Site has been deployed on: [a link](https://dadjokesdemo.netlify.app/)
