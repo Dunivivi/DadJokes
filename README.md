@@ -14,4 +14,4 @@ Made with :
 
 ## Deploy
 
-Site has been deployed on: [a link](https://dadjokesdemo.netlify.app/)
+Site has been deployed on: [DadJokes](https://dadjokesdemo.netlify.app/)
